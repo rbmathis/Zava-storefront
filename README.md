@@ -1,2 +1,5 @@
 # Zava-storefront
-[FlowLens Demo] Zava retail storefront — web app — Team: Storefront, Group: ZavaRetail
+
+Zava retail storefront — web app
+
+Update 1 by James Chen
