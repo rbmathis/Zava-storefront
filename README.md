@@ -2,4 +2,4 @@
 
 Zava retail storefront — web app
 
-Update 3 by Raj Patel
+Update 4 by Emily Johansson
